@@ -1,0 +1,46 @@
+02- Django = É um framework para desenvolvimento rápido para web e de codigo aberto escrito 
+em Python, ele é descrito como uma estrutura da Web Python de alto nível que incentiva o desenvolvimento rápido e o design limpo e pragmático.
+Construído por desenvolvedores experientes, o framework cuida de grande parte do aborrecimento do desenvolvimento da Web
+O framework Django foi construído para ajudar as pessoas desenvolvedoras a sair do conceito da aplicação para a produção o mais rápido possível.
+Django utiliza o princípio DRY (Don't Repeat Yourself), onde faz com que o 
+desenvolvedor aproveite ao máximo o código já feito, evitando a repetição
+É o framework para desenvolvimento com Python mais usado do mercado, o que faz 
+que uma de suas vantagens seja a sua comunidade de usuários ativos e controle 
+diário de suas funções permitindo um certo feedback dos mesmos.
+
+Flask = É considerado o melhor microframework python e é extremamente leve, adaptável e possui um design modular. 
+É de código aberto e compatível com o Google App Engine, com base na programação modular isto quer dizer que éa base
+para a programação orientada a objetos  passando pelo código da estrutura de dados, até a estruturação da solução como um todo. 
+A vantagem do Flask é sua flexibilidade, que permite que você faça experimentações 
+com a arquitetura, bibliotecas e novas tecnologias além disso ele
+Aplicações robustas: Apesar de ser um micro-framework, o Flask permite a criação de aplicações robustas
+já que é totalmente personalizável permitindo caso necessário a criação de uma arquitetura mais definida.
+
+
+Bottle = É um framework extremamente leve e não possui nenhuma dependência 
+externa além da biblioteca padrão. É muito indicado para iniciar o aprendizado no 
+desenvolvimento web com Python, para criação de protótipos ou simplesmente para a 
+construção de projetos pessoais de aplicações web pode ser usado como um módulo 
+python sem dependências adicionais. Inclusive, você pode baixá-lo do site e incluir no 
+seu projeto facilmente por que ele é constituído de apenas um arquivo. Ele implementa 
+o padrão WSGI e suporta roteamento, templates de views, upload de arquivos, cookies e 
+inclusive websockets, sua vantagem principal é bem explicada a cima pois ele é 
+pequeno e de fácil ententendimento sendo recomendado para iniciantes na área
+
+
+Web2Py = É um framework livre de código aberto que não demanda instalação para o 
+início da programação, sendo necessário apenas baixar a fonte e executar. É um 
+framework “full-stacked”, ou seja, já vem com todos os componentes necessários. Ele 
+segue o padrão MVC (Model, View, Controller), o que permite uma melhor 
+organização das camadas de apresentação, dados e lógica.
+As vantagens do web2py é que cada cliente pode criar até dez projetos PYTHON por 
+site, ele tem uma grande facilidade para uso e ele permite a instalação de plugins e 
+módulos adicionais, além de vir com uma estrutura pronta de conteúdo para diversos 
+formatos.
+
+Selenium = é um framework portátil para testar aplicativos web. O Selenium fornece uma ferramenta de reprodução para a criação de testes
+funcionais sem a necessidade de aprender uma linguagem de script de teste (Selenium IDE)
+o selenium está presenta principalmente nas industrias de automaçãopor ter a possibilidade de interagir com a página simulando interações reais,
+é possível realizar testes de interface web de forma automatizada em toda a aplicação desenvolvida
+além disso o selenium, é do que um framework que permite com que o Python abra o seu navegador para executar varios comandos desejados
+

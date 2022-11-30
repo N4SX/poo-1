@@ -1,0 +1,13 @@
+1 - Linguagem compilada é quando é processada pelo compilador, em suma vai mais pela parte do hardware onde começa
+pelo processador e depois sistema operacional
+
+Já a linguagem interpretada é processada por um software no caso um programa que se chama de interpretador de codigo
+e logo depois ele é processado pelo processador e sistema operacional
+
+A diferença das duas linguagens é que na compilada todo o código é traduzido em 
+linguagem de máquina (binário) e logo em seguida é executado pelo hardware
+Já na interpretada é lida linha por linha do código e depois e processada pelo interpretador de codigo 
+no caso nosso software responsavel.
+
+Python é uma linguagem de programação interpretada de alto nivel pois ela manipula objetos, ela também é de tipagem
+dinâmica pois não tem problemas com declarações de variaveis nas questões de tipos de dados ou em conversões dos mesmos.
